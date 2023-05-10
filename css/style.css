@@ -1,6 +1,5 @@
 @import "./null.css";
 
-
 @import url('https://fonts.googleapis.com/css?family=Montserrat:regular,500,600,700,800,900&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Seymour+One:regular&display=swap');
 
@@ -812,7 +811,7 @@ footer {
    --gutter15Xsm: 60px;
    padding-top: var(--gutter15Xsm, 60px);
    padding-bottom: var(--gutter15Xsm, 60px);
-   background: url('/img/products/bg-products.jpg') center / cover no-repeat;
+   background: url('../img/products/bg-products.jpg') center / cover no-repeat;
 }
 
 .products__cards {
@@ -1015,7 +1014,7 @@ svg#Capa_2 {
    --size-w: 970px;
    padding-top: calc(var(--gutter11Lg, 440px) + 15px);
    padding-bottom: var(--gutter5Lg, 200px);
-   background: url('/img/products/bg-products.jpg') center / cover no-repeat;
+   background: url('../img/products/bg-products.jpg') center / cover no-repeat;
 }
 
 .slider-feedbacks {
