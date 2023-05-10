@@ -39,7 +39,7 @@ a,
 a:visited,
 a:hover {
    text-decoration: none;
-   cursor: url("/img/icons/cursor.svg") 2 2, pointer;
+   cursor: url("../img/icons/cursor.svg") 2 2, pointer;
 }
 
 :focus,
@@ -90,11 +90,11 @@ input[type="submit"] {
    box-shadow: none;
    background-color: transparent;
    background: none;
-   cursor: url("/img/icons/cursor.svg") 2 2, pointer;
+   cursor: url("../img/icons/cursor.svg") 2 2, pointer;
 }
 
 label {
-   cursor: url("/img/icons/cursor.svg") 2 2, pointer;
+   cursor: url("../img/icons/cursor.svg") 2 2, pointer;
 }
 
 button::-moz-focus-inner {
