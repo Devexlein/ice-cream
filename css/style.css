@@ -1824,7 +1824,7 @@ input:checked.form__checkbox--lightshocolate {
    }
 
    .products {
-      background: url('/img/products/bg-products-sm.jpg') center / cover no-repeat;
+      background: url('../img/products/bg-products-sm.jpg') center / cover no-repeat;
    }
 
    .about__content {
@@ -1904,7 +1904,7 @@ input:checked.form__checkbox--lightshocolate {
    .feedbacks {
       --size-w: 720px;
       padding-top: var(--gutter8Lg, 280px);
-      background: url('/img/feedbacks/bg-feedbacks.jpg') center / cover no-repeat;
+      background: url('../img/feedbacks/bg-feedbacks.jpg') center / cover no-repeat;
    }
 
    .feedback__text {
@@ -2240,7 +2240,7 @@ input:checked.form__checkbox--lightshocolate {
    }
 
    .products {
-      background: url('/img/products/bg-products-mobile.jpg') 35% 50% / cover no-repeat;
+      background: url('../img/products/bg-products-mobile.jpg') 35% 50% / cover no-repeat;
    }
 
    .products__cards {
@@ -2548,7 +2548,7 @@ input:checked.form__checkbox--lightshocolate {
    }
 
    .products {
-      background: url('/img/products/bg-products-mobile-sm.webp') 20% 50% / cover no-repeat, url('/img/products/bg-products-mobile-sm.jpg') 20% 50% / cover no-repeat;
+      background: url('../img/products/bg-products-mobile-sm.webp') 20% 50% / cover no-repeat, url('../img/products/bg-products-mobile-sm.jpg') 20% 50% / cover no-repeat;
    }
 
    .about {
@@ -2579,7 +2579,7 @@ input:checked.form__checkbox--lightshocolate {
       --size-w: 440px;
       padding-top: var(--gutter7Lg, 245px);
       padding-bottom: calc(var(--gutter15Lg, 450px) + 15px);
-      background: url('/img/feedbacks/bg-feedbacks-sm.webp') center left / cover no-repeat, url('/img/feedbacks/bg-feedbacks-sm.jpg') center left / cover no-repeat;
+      background: url('../img/feedbacks/bg-feedbacks-sm.webp') center left / cover no-repeat, url('../img/feedbacks/bg-feedbacks-sm.jpg') center left / cover no-repeat;
    }
 
    .locations {
